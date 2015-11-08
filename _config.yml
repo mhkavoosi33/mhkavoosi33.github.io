@@ -1,4 +1,4 @@
-# This is the default format.
+﻿# This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:title
 # https://help.github.com/articles/migrating-your-pages-site-from-maruku
@@ -14,7 +14,7 @@ paginate_path: "page/:num"
 categories_path : categories.html
 tags_path : tags.html
 
-BASE_PATH : http://127.0.0.1:4000
+BASE_PATH : http://mhkavoosi.ir
 
 
 title : uno-dbyll
